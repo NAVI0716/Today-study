@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7c2ba4fa-09d2-4fae-a1ea-34620fe6fcc9",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ee741899-fa84-4105-be51-16e390952edc",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]
